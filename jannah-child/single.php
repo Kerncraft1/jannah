@@ -128,7 +128,7 @@ if ( have_posts() ) : while ( have_posts()): the_post(); ?>
 
                 <?php if (types_render_field("mods_images", array(rel => "lightbox", "style" => "width: 49%;",))) { ?>
                     <div class="video-gallery">
-                        <div class="head-video-gallery">Дополнительные скриншоты модификации</div>
+                        <div class="head-video-gallery">Скриншоты модификации</div>
                         <div class="images-gallery">
 
 
