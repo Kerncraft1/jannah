@@ -1,0 +1,2 @@
+# jannah
+child theme jannah
